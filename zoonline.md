@@ -36,3 +36,4 @@
 ![Диаграмма Парето](https://github.com/Maxim713/project_managment/blob/master/net_plan.PNG)
 
 ## Диаграмма Ганта
+![Диаграмма Парето](https://github.com/Maxim713/project_managment/blob/master/gant.PNG)
