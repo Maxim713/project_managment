@@ -27,6 +27,7 @@
 ![Диаграмма Исикавы](https://github.com/Maxim713/project_managment/blob/master/ishiq.jpg)
 
 ## Метод парных сравнений
+![Метод парных сравнений](https://github.com/Maxim713/project_managment/blob/master/compare.png)
 
 ## Диаграмма Парето
 
