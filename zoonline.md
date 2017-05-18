@@ -33,6 +33,6 @@
 ![Диаграмма Парето](https://github.com/Maxim713/project_managment/blob/master/paretto.png)
 
 ## Сетевой график
-![Диаграмма Парето](https://github.com/Maxim713/project_managment/blob/master/net.PNG)
+![Диаграмма Парето](https://github.com/Maxim713/project_managment/blob/master/net_plan.PNG)
 
 ## Диаграмма Ганта
