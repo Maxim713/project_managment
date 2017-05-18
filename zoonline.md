@@ -24,7 +24,7 @@
 * Как и любой интернет магазин, сервис может быть подвержен атакам.
 
 ## Диаграмма Исикавы
-![Диаграмма Исикавы](https://github.com/Maxim713/project_managment/blob/master/ishi.jpg)
+![Диаграмма Исикавы](https://github.com/Maxim713/project_managment/blob/master/ishiq.jpg)
 
 ## Метод парных сравнений
 
