@@ -30,7 +30,9 @@
 ![Метод парных сравнений](https://github.com/Maxim713/project_managment/blob/master/compare.png)
 
 ## Диаграмма Парето
+![Диаграмма Парето](https://github.com/Maxim713/project_managment/blob/master/paretto.png)
 
 ## Сетевой график
+![Диаграмма Парето](https://github.com/Maxim713/project_managment/blob/master/net.PNG)
 
 ## Диаграмма Ганта
